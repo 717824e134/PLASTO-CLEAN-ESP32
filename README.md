@@ -60,7 +60,6 @@ A potentiometer is used to simulate motor load through the ESP32 ADC.
 ```text
 Motor Load > 3500 ADC
 ```
-
 When an overload is detected, the system:
 
 1. Latches the fault
