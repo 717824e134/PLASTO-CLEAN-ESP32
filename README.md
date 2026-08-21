@@ -319,7 +319,7 @@ The simulation demonstrates the interaction between the ESP32 controller, motor-
 
 ## 📷 Simulation Preview
 
-![PLASTO-CLEAN ESP32 Safety Control System](wokwi_simulation.png)
+![PLASTO-CLEAN ESP32 Safety Control System](docs/images/wokwi_simulation.png)
 
 > The image shows the ESP32-based prototype with the OLED, ultrasonic sensor, load input, status LEDs, control buttons, servo mechanism, relay, and buzzer connected in the Wokwi environment.
 
